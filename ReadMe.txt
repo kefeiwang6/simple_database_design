@@ -1,5 +1,4 @@
-Author: Kefei Wang
-Time : 03/20/2016
+
 
 source files : InMemDB.java TransactionBlock.java
 source files are included in ./src/inmemdb
